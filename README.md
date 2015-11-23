@@ -1,7 +1,7 @@
 # Phabricator
 
-h2. Tradução das strings da UI do Phabricator para Português Brasileiro
-
+Tradução das strings da UI do Phabricator para Português Brasileiro
+-------------------------------------------------------------------
 
 1. Config | Translations
 2. Editar a configuração
@@ -9,4 +9,4 @@ h2. Tradução das strings da UI do Phabricator para Português Brasileiro
 4. Colar no campo
 5. Salvar
 
-Funciona imediatamente! :)
+**Funciona imediatamente! :)**
