@@ -275,5 +275,22 @@
   "Repositories": "Reposit\u00f3rios",
   "Type a repository name...": "Digite o nome de um reposit\u00f3rio",
   "Show only revisions with a draft comment.": "Mostrar somente revis\u00f5es com um coment\u00e1rio de esbo\u00e7o.",
-  "Order": "Ordem"
+  "Order": "Ordem",
+  "Notifications": "Notifica\u00e7\u00f5es",
+  "Mark All Read": "Marcar Todas como Lidas",
+  "You have no notifications.": "Voc\u00ea n\u00e3o tem notifica\u00e7\u00f5es.",
+  "Notification Server not enabled.": "Servidor de Notifica\u00e7\u00f5es n\u00e3o ativado.",
+  "Rooms": "Salas",
+  "You have no messages.": "Voc\u00ea n\u00e3o tem mensagens.",
+  "All Documents": "Todos Documentos",
+  "Query": "Consulta",
+  "Document Status": "Status do Documento",
+  "Open": "Aberto",
+  "Closed": "Fechado",
+  "Document Types": "Tipos do Documento",
+  "Select a document type...": "Selectione o tipo do documento...",
+  "Owners": "Propriet\u00e1rios",
+  "In Any Project": "Em Qualquer Projeto",
+  "Email Help": "Ajuda do Email",
+  "Email Commands: Tasks": "Comandos do Email: Tarefas"
 }
