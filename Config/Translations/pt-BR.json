@@ -683,5 +683,11 @@
   "You haven't added any authentication factors to your account yet.": "Voc\u00ea ainda n\u00e3o adicionou nenhuma autentica\u00e7\u00e3o em etapas para a sua conta.",
   "Your account has been created, but needs to be approved by an administrator. You'll receive an email once your account is approved.": "Sua conta foi criada, mas precisa ser aprovada por um administrador. Voc\u00ea receber\u00e1 um e-mail quando sua conta for aprovada.",
   "Your Projects": "Seus Projetos",
-  "{\"some string\": \"my alternative\"}": "{\"algum texto\": \"meu valor\"}"
+  "{\"some string\": \"my alternative\"}": "{\"algum texto\": \"meu valor\"}",
+  "Create Subtask": "Criar Sub Tarefa",
+  "Edit Blocking Tasks": "Alterar Tarefas que est\u00e3o Bloqueando",
+  "Edit Differential Revisions": "Editar Diferen\u00e7as de Revis\u00e3o",
+  "Edit Pholio Mocks": "Alterar Modelos Pholio",
+  "Edit Task": "Alterar Tarefa",
+  "Merge Duplicates In": "Juntar Duplicados Em"
 }
