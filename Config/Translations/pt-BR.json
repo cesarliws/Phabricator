@@ -516,5 +516,18 @@
   "Multi-Factor: Add Factor": "Dois Passos: Adicionar Passo",
   "Multi-Factor: Remove Factor": "Dois Passos: Remover Passo",
   "Filter IP": "Filtro IP",
-  "Unknown Object (????)": "Objeto Desconhecido (???)"
+  "Policy Details: %s": "Detalhes da Pol\u00edtica: %s",
+  "You do not have permission to view policy details.": "Voc\u00ea n\u00e3o tem permiss\u00e3o para ver os detalhes da pol\u00edtica.",
+  "Logged in users can take this action.": "Usu\u00e1rios logados podem executar esta a\u00e7\u00e3o.",
+  "Done": "Pronto",
+  "Users with the \"%s\" capability:": "Usu\u00e1rios com a capacidade \"%s\":",
+  "Users with the \"%s\" capability for this object:": "Usu\u00e1rios com a capacidade \"%s\" para este objeto:",
+  "This object is in %s, and can only be seen or edited by users with access to view objects in the space.": "Este objeto ets\u00e1 em %s, e somente pode ser visto ou alterado por usu\u00e1rios com acesso a visualiza\u00e7\u00e3o de objetos neste espa\u00e7o.",
+  "Users who can see objects in this space:": "Usu\u00e1rios que podem ver este espa\u00e7o:",
+  "You have %d unresolved setup issue(s)...": "Voc\u00ea tem %d problema(s) na configura\u00e7\u00e3o n\u00e3o resolvido(s)...",
+  "You have an unresolved setup issue...": "Voc\u00ea tem um problema na configura\u00e7\u00e3o n\u00e3o resolvido...",
+  "You have %d unresolved setup issues...": "Voc\u00ea tem %d problemas na configura\u00e7\u00e3o n\u00e3o resolvidos...",
+  "Unhandled Exception (\"%s\")": "Excess\u00e3o n\u00e3o tratada (\"%s\")",
+  "Unhandled Exception": "Excess\u00e3o n\u00e3o tratada",
+  "Unhandled Exception: %s": "Excess\u00e3o n\u00e3o tratada: %s"
 }
