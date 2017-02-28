@@ -986,8 +986,8 @@
   "Path":"Caminho",
   "Packages":"Pacotes",
   "Select Syntax Highlighting":"Selecionar Linguagem de Programação",
-  "Choose a syntax highlighting to use.":"Escolha a linguagem de programa~ção a ser usada." ,
-  "Highlighting":"Linaguagem",
+  "Choose a syntax highlighting to use.":"Escolha a linguagem de programação a ser usada." ,
+  "Highlighting":"Linguagem",
   "Choose Highlighting":"Selecionar",
   "Show All Context":"Mostrar Todo Contexto",
   "Added":"Adicionado",
@@ -998,5 +998,5 @@
   "Change Auditors":"Alterar Auditores",
   "Change Project Tags":"Alterar Tags do Projeto",
   "Change Subscribers":"Alterar Inscritos",
-  "%s added %d subscriber(s): %s.":"%s adicionou %d inscritos(s): %s."
+  "%s added %d subscriber(s): %s.":"%s adicionou %d inscrito(s): %s."
 }
